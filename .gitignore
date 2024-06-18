@@ -1,0 +1,66 @@
+.virtualenv/
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+.env
+.venv
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled Code
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.swp
+*.swo
+*.pid
+*.seed
+
+# IDE/Editor Settings
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.metadata/
+
+# Environment Files
+.env
+.env.local
+
+# Database Files
+*.sqlite
+*.db
+*.db-journal
+
+# Configuration Files
+config.yml
+
+# Other Build Artifacts
+dist/
+build/
+
+# Temporary Files Created by Editors/IDEs
+*.sublime-project
+*.sublime-workspace
+*~
+
